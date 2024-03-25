@@ -14,6 +14,13 @@ The project utilizes a Transfer Learning approach, leveraging pre-trained CNN mo
 
 The data set used for experimentation is sourced from Kaggle, consisting of 16 classes of 25 images each. This dataset provides a diverse range of Kannada handwritten characters for training and testing the model.
 
+### Architecture
+
+![Architecture Diagram](result/Architecture.png)
+
+This diagram illustrates the overall architecture of the Kannada Handwritten Character Recognition system using Transfer Learning approach, showcasing the flow of data, model layers, and key components.
+
+
 ### Results
 
 After training the CNN model using transfer learning techniques, the project achieved an impressive accuracy of 97.50% in just 50 epochs. This high accuracy demonstrates the potential of CNN networks in character recognition tasks, particularly in challenging scripts like Kannada.
