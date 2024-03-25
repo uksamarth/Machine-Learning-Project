@@ -24,6 +24,7 @@ This diagram illustrates the overall architecture of the Kannada Handwritten Cha
 ### Results
 
 After training the CNN model using transfer learning techniques, the project achieved an impressive accuracy of 97.50% in just 50 epochs. This high accuracy demonstrates the potential of CNN networks in character recognition tasks, particularly in challenging scripts like Kannada.
+![Accuracy vs Epochs Diagram](result/accuracy -2.png)
 
 ### Conclusion
 
